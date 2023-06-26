@@ -1,0 +1,6 @@
+{
+	"jwtPrivateKey": "",
+	"db": "mongodb+srv://tallykota:Spce%401234@cluster0.jwn7gt2.mongodb.net/?retryWrites=true&w=majority",
+	"AWS_ACCESS_KEY_ID": "AWS_ACCESS_KEY_ID",
+	"AWS_SECRET_ACCESS_KEY": "AWS_SECRET_ACCESS_KEY"
+}
